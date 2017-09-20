@@ -4,6 +4,7 @@ project( visualizeGeometry )
 set(CMAKE_CXX_FLAGS "-std=c++11")
 
 # 添加Eigen头文件
+include_directories(/Users/zxtang/dev/libs/eigen-eigen-5a0156e40feb)
 include_directories( "/usr/include/eigen3" )
 
 # 添加Pangolin依赖

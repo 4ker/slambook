@@ -34,3 +34,33 @@ EIGEN_MAKE_TYPEDEFS_ALL_SIZES(std::complex<double>, cd)
 
 这就实现来很多常用的矩阵类型。
 
+useGeometry:
+
+```
+rotation matrix =
+ 0.707 -0.707      0
+ 0.707  0.707      0
+     0      0      1
+(1,0,0) after rotation = 0.707 0.707     0
+(1,0,0) after rotation = 0.707 0.707     0
+yaw pitch roll = 0.785    -0     0
+Transform matrix =
+ 0.707 -0.707      0      1
+ 0.707  0.707      0      3
+     0      0      1      4
+     0      0      0      1
+v tranformed = 1.71 3.71    4
+quaternion =
+    0
+    0
+0.383
+0.924
+quaternion =
+    0
+    0
+0.383
+0.924
+(1,0,0) after rotation = 0.707 0.707     0
+```
+
+![](imgs/1.png)
