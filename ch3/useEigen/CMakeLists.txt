@@ -4,7 +4,7 @@ project( useEigen )
 set( CMAKE_BUILD_TYPE "Release" )
 set( CMAKE_CXX_FLAGS "-O3" )
 
-include_directories(/Users/zxtang/dev/libs/eigen-eigen-5a0156e40feb)
+include_directories(~/dev/libs/eigen-eigen-5a0156e40feb)
 
 # 添加Eigen头文件
 include_directories( "/usr/include/eigen3" )
