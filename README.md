@@ -79,7 +79,13 @@ lang = {zh}
 
     介绍了 CLion 如何配置调试远程代码。
 
--   ch3 Eigen，三维几何
+-   [ch3 Eigen，三维几何](ch3/README.md)
+
+
+    如何在 CLion 里面配置库？
+
+    Eigen 库。
+
 -   ch4 Sophus，李群与李代数
 -   ch5 OpenCV，图像与相机模型
 -   ch6 Ceres and g2o，非线性优化
