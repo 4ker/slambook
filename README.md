@@ -42,6 +42,12 @@ Workflow:
 
     You can use `make` to run this command.
 
+-   **用 VS code 打开工程**
+
+    方便修改 README。
+
+    开一个 iterm，打开 tmux，创建两个窗口，一个本地，一个远程到 Ubuntu。
+
 # 目录
 
 -   [ch2 概述，cmake基础](ch2/README.md)
