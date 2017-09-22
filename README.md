@@ -48,6 +48,11 @@ Workflow:
 
     开一个 iterm，打开 tmux，创建两个窗口，一个本地，一个远程到 Ubuntu。
 
+    VS Code notes:
+
+    -   通用：Command+Shift+? 搜索菜单
+    -   Command+Shift+P，command platte，可以快速输入指令，以及打开文档
+
 # 目录
 
 -   [ch2 概述，cmake基础](ch2/README.md)
